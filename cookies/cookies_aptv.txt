@@ -1,0 +1,29 @@
+# HTTP Cookie File for domains related to apple.com.
+# Downloaded with cookies.txt One Click Firefox Extension (https://addons.mozilla.org/en-US/firefox/addon/cookies-txt-one-click/)
+# Example:  wget -x --load-cookies cookies.txt https://tv.apple.com/mx/show/helpsters/umc.cmc.kfh7cellb1a3dmiehxhvq8gl?ctx_brand=tvs.sbd.4000
+#
+.apple.com	TRUE	/	TRUE	1618698308	as_dc	ucp1
+.apple.com	TRUE	/	TRUE	1650232508	dssf	1
+.support.apple.com	TRUE	/	FALSE	1626312674	acs_ref	iforgot.apple.com,/kb/HT201487
+.apple.com	TRUE	/	FALSE	1628730075	POD	es~es
+.apple.com	TRUE	/	TRUE	1626311794	X-Apple-I-Web-Token	AAAAKzExfDQ5YjkwODhiZGM4NDNmNDA0OGRhYTMxZmY1ZGJlMWY4AAABeqe8oJkrxsk0xMWjeXS2KGD8BzzfkrcXuxXyrvywyBC8CURHmqy0aRHyW2EAQw+ey5w73s8cz7c9n3cDCSJsgVgroB/lxNbla368FTmIDIa89OnblkqZCS8SRV34G4xHH8bIKdn+gBIEtw+MxEMz/EDbIqsrYx9T+ME3zIzX/MtTB4meCTIKM3WCix6AaM3loFR5RNH/sVVbDpJzsFNKEKCnxwr2/R1Flgn6BaGZiOMauvT8ZtpPRFiCiCYFue32xeJq+sjLZjK+3nHyt40XbwzD+4qerow/SHMCyymnTVbq7adBa6a3gP6bUTuOdlWPbmrw+06kuT9dS0ikV1lEYv+TOkc/SB/LsnFujFcxR+Y38wgufhQ9fW2hHBd+kNirNsvK/+2ExDiSidQdlAIe0Vmh9zKu5zZHb7AxaK8tUVH2yufn5c/Phf7sFgY4XvV4ZwpV13QB5R5ZgrVM77a65VMLTS9ZxSHvzPm4sGb2PZ12QmI0C+KsrGPHuHcDeht3Rkh1NVNIBe8uaBwaSw7MZWkdbWieL4osZec7eZirSALmQl49A+64nzR89JEjEmWH+UEbXI+QulvK7EiT/g6jf1ayswYTGaBPZ4m8ukXt3cRfWsGq9LB7ChuiZyL4g0MLLR4z9PyGnI5ij4+l9tPD4pj7oVNQJMqjvdcDBz1zbnnTuk01bKg1sakUBzPp/1pPSgL/X1MSfgxgiciT5f/LX615tqrNXPLV8FIeBaEjBnT0tVR+QdNkeYLV1Ytz54HduMrxd6RGEi5mCB2YDMg2Us8zZk3EVFQ2aZLtS4SaYV3vve37sM/Ma7iWemgPRoc1gL7VBdxqw8oOdv0ZXt69PH14M50vVnZ5fcByYfG9unF6YXQF8UfEHc0gceES3FUKSEEmpvm2QxPb2UMQNMHJEBwm29lhn3TKFwgK3h4jDUE7281B8XAy4vphUlFvjcNxXbPMKNXIrDHF3aNeMsFbb83EGNNtNS54pZA9Z8fxnGCiYDgamv9N2Gw0m1804Y7zIk0uT6NWzRVBRh9dXV9fIrPVPh5xJvCDXasABPzgKWSldnv0XpoogLygUDpCLkVHN5JL+Quyw9/XLG7ax+1Q9nl8
+.apple.com	TRUE	/	TRUE	1629565063	AKA_A2	A
+.idmsa.apple.com	TRUE	/	TRUE	1632153747	DES59514c90f2ca37f7d58be981897a3f0ed	HSARMTKNSRVXWFlaDsXmB75Eeh1Z+kXO+FSV7+NCdGkJJxBbbA56cw21C+SjduotdAHwqxLH9eMW8BJNXoPx6qHvUMKLgy/eAYUoqm3bSjKNJuP8ZfNKwO+mutU6gbX8E8u/JkZvn8Ck5V/KhgnL5C3JOURISvOkWnqQyXzbMO6oOwS7RRV7Ab3Jzg==SRVX
+.tv.apple.com	TRUE	/	TRUE	1629562949	commerce-authorization-token	AAAAAAAAAAGNXto+d4Jc5VDjED9dKlQ9isPEwZQQAZJjND1TzK+HHZ2CyXnBRGwJpxtYi0ouUpAspI3Mm7mrwzXlNBW+S+4MpDWR1t69Ud45eK88jU5Ol7EmYTq0HWNgVxnsnsXiHiyNHo0NMg/oEK2oq/s+TDrhv2pClY4NqntIe51OePBOA6Ea1dex1MP2gu25ePb0KKt/SXtiB9kQmyMYkbZFfoTfGfVfjnVWvzSY2TMmy4ux0B/l4aX3jer3q36Zw2N6eNNtEryevVPYFg+BXzWbBwePeSxZMh//yOaOzcEALib/kg==
+.apple.com	TRUE	/	FALSE	1632153749	vrep	CNTk89wBEgQIBhAAEgQIAhAAEgQIAxAAEgQICBAAEgQIEBAAEgQIARAAEgQIERAAEgQIBRAAEgQICRAAEgQICxAAEgQIDBAAEgQIEhAAEgQIBBAAEgQIBxAAEgQIDRAAEgQIChAAEgQIDhAAEgQIDxAA
+.tv.apple.com	TRUE	/	TRUE	1645113749	itspod	8
+.apple.com	TRUE	/	FALSE	0	geo	MX
+.apple.com	TRUE	/	TRUE	0	s_cc	true
+.apple.com	TRUE	/	TRUE	1629590610	s_vi	[CS]v1|3090C6A84B5AE760-60000A9C19817BBF[CE]
+.apple.com	TRUE	/	TRUE	0	mk_epub	%7B%22btuid%22%3A%221hf118a%22%2C%22eVar1%22%3A%22tv%20-%20index%2Ftab%20(mx)%20%7C%20watch%20now%22%2C%22prop57%22%3A%22www.mx.tv.tab%2Bother%22%7D
+.apple.com	TRUE	/	TRUE	1629590615	s_fid	3BB52D0264EF11E2-2ED581A169C92EE1
+.apple.com	TRUE	/	TRUE	0	pt-dm	v1~x~8oo63fjb~n~tv%20-%20index%2Ftab%20(mx)
+.apple.com	TRUE	/	FALSE	1629590020	itspod	8
+.mediaauth.apple.com	TRUE	/	TRUE	1630193622	pldfltcid	0bf6971e788c4d0695e36be9e888a8a9008
+.mediaauth.apple.com	TRUE	/	TRUE	1630193622	pltvcid	8208d5d0c1d241d49130b355b22eb325008
+.mediaauth.apple.com	TRUE	/	TRUE	1630193622	itua	mx
+.mediaauth.apple.com	TRUE	/	TRUE	1630193622	media-user-token	AqidN+fNPzHBU2OY/McR4N0CcPAJIDks0BZAPf0kFeowojvQfEdbwoLt95DUVB/MFCALipTJl5nm/Tzl46HlyHKpS533kc3CPpgNxaSawXkO0WQbrIeL17ZAOM2eSTzXsvljSK+vwXn3yky3shfwGGYqw4RBDRrFxRDMWi0L2Uv2esRAfHtFEyAyoGjpa/V6k9ddWyKoEkKKHbCBhX6qBeKqgRtubSheqgYf4Pb7c8agK4VMDg==
+.tv.apple.com	TRUE	/	TRUE	1630193622	pldfltcid	0bf6971e788c4d0695e36be9e888a8a9008
+.tv.apple.com	TRUE	/	TRUE	1630193622	pltvcid	8208d5d0c1d241d49130b355b22eb325008
+.tv.apple.com	TRUE	/	TRUE	1630193622	itua	mx
+.tv.apple.com	TRUE	/	TRUE	1630193622	media-user-token	AqidN+fNPzHBU2OY/McR4N0CcPAJIDks0BZAPf0kFeowojvQfEdbwoLt95DUVB/MFCALipTJl5nm/Tzl46HlyHKpS533kc3CPpgNxaSawXkO0WQbrIeL17ZAOM2eSTzXsvljSK+vwXn3yky3shfwGGYqw4RBDRrFxRDMWi0L2Uv2esRAfHtFEyAyoGjpa/V6k9ddWyKoEkKKHbCBhX6qBeKqgRtubSheqgYf4Pb7c8agK4VMDg==

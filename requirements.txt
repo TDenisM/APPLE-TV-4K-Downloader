@@ -1,0 +1,16 @@
+pymediainfo==5.1.0
+future==0.18.2
+xmltodict==0.12.0
+m3u8==0.9.0
+requests==2.25.1
+asgiref==3.4.1
+titlecase==2.2.0
+graphql-core==2.3.2
+streamlink==2.2.0
+Unidecode==1.2.0
+tqdm==4.61.1
+isodate==0.6.0
+graphql-relay==2.0.1
+prettytable==2.1.0
+urllib3==1.26.5
+PyJWT==2.1.0

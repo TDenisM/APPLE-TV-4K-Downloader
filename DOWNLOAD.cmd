@@ -1,0 +1,2 @@
+python bad37.py --url https://tv.apple.com/mx/show/el-nino-lobo-y-la-fabrica-del-todo/umc.cmc.6f1xxgn2dg52deawakawg20r9 -q 480p -s 1 --alang en es-la --slang en en-sdh es-la es-la-sdh --flang es-la-forced
+pause
